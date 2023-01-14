@@ -50,20 +50,18 @@ For our study, we used Digital Annealer which is a commercial system. However, w
 ## How to cite
 Please cite the following work if you use QCE.
 ```
-@article{arXiv:2205.09007,
-  title = {Accelerated Chemical Space Search using Quantum-inspired Cluster Expansion},
-  author = {Choubisa, Hitarth, Jehad Abed, Douglas Mendoza, Zhenpeng Yao, Ziyun Wang, Brandon Sutherland, Alán Aspuru-Guzik, and Edward H. Sargent},
-  journal = {},
-  volume = {},
-  issue = {},
-  pages = {},
-  numpages = {},
-  year = {},
-  month = {},
-  publisher = {},
-  doi = {},
-  url = {https://arxiv.org/abs/2205.09007}
+@article{Choubisa2022,
+   author = {Hitarth Choubisa and Jehad Abed and Douglas Mendoza and Hidetoshi Matsumura and Masahiko Sugimura and Zhenpeng Yao and Ziyun Wang and Brandon R. Sutherland and Alán Aspuru-Guzik and Edward H. Sargent},
+   doi = {10.1016/J.MATT.2022.11.031},
+   issn = {2590-2385},
+   journal = {Matter},
+   month = {12},
+   publisher = {Cell Press},
+   title = {Accelerated chemical space search using a quantum-inspired cluster expansion approach},
+   url = {https://linkinghub.elsevier.com/retrieve/pii/S2590238522006622},
+   year = {2022},
 }
+
 ```
 
 ## License
